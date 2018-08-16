@@ -1,0 +1,1475 @@
+﻿Log file open, 08/04/18 19:18:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ItemPrototype_LJS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.841211
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.216s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.013s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.04-10.18.10:585][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.04-10.18.10:585][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.04-10.18.10:646][  0]LogHAL: Display: Platform has ~ 16 GB [17058672640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.04-10.18.10:647][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.04-10.18.10:647][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.04-10.18.10:653][  0]LogInit: Computer: DESKTOP-VTQMR3U
+[2018.08.04-10.18.10:654][  0]LogInit: User: ukyos
+[2018.08.04-10.18.10:654][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.04-10.18.10:654][  0]LogInit: High frequency timer resolution =3.312796 MHz
+[2018.08.04-10.18.10:654][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.04-10.18.10:654][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.04-10.18.10:654][  0]LogMemory: Process Physical Memory: 101.78 MB used, 101.78 MB peak
+[2018.08.04-10.18.10:654][  0]LogMemory: Process Virtual Memory: 87.26 MB used, 87.26 MB peak
+[2018.08.04-10.18.10:654][  0]LogMemory: Physical Memory: 3848.21 MB used,  12420.20 MB free, 16268.42 MB total
+[2018.08.04-10.18.10:654][  0]LogMemory: Virtual Memory: 4622.34 MB used,  12420.20 MB free, 134217728.00 MB total
+[2018.08.04-10.18.10:954][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.08.04-10.18.10:954][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.08.04-10.18.11:446][  0]LogStreaming: Display: Took  0.491s to InitEngineTextLocalization.
+[2018.08.04-10.18.11:447][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.04-10.18.11:578][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.04-10.18.11:578][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.04-10.18.14:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.04-10.18.14:376][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.04-10.18.14:565][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.08.04-10.18.14:566][  0]LogD3D11RHI:       1998/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.04-10.18.14:595][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2018.08.04-10.18.14:595][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.04-10.18.14:600][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.04-10.18.14:600][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.04-10.18.14:600][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.04-10.18.14:607][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.04-10.18.14:607][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.04-10.18.14:607][  0]LogWindows: EnumDisplayDevices:
+[2018.08.04-10.18.14:607][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.08.04-10.18.14:608][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.08.04-10.18.14:608][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.08.04-10.18.14:609][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.08.04-10.18.14:609][  0]LogWindows:    4. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.08.04-10.18.14:609][  0]LogWindows:    5. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.08.04-10.18.14:610][  0]LogWindows:    6. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.08.04-10.18.14:610][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.08.04-10.18.14:610][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.08.04-10.18.14:610][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.08.04-10.18.14:610][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.08.04-10.18.14:610][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2018.08.04-10.18.14:671][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.04-10.18.14:741][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.04-10.18.14:795][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/Unreal ljs/ItemPrototype_LJS/Intermediate/Shaders/WorkingDirectory/9272/).
+[2018.08.04-10.18.14:796][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ukyos/AppData/Local/Temp/UnrealShaderWorkingDir/F4BEE06345717769E3DFC78046CA9984/'.
+[2018.08.04-10.18.15:434][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.04-10.18.15:465][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.04-10.18.15:495][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.04-10.18.15:524][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.04-10.18.15:557][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.04-10.18.15:588][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.04-10.18.15:617][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.04-10.18.15:648][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.04-10.18.15:677][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:798][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:799][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.04-10.18.15:814][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.04-10.18.15:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.04-10.18.15:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.04-10.18.15:979][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.04-10.18.15:979][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.04-10.18.16:008][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.04-10.18.16:036][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.04-10.18.16:063][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.04-10.18.16:100][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.04-10.18.16:125][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.04-10.18.16:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.04-10.18.16:542][  0]LogXGEController: Cleaning working directory: C:/Users/ukyos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.04-10.18.16:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.04-10.18.16:542][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.04-10.18.16:543][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.04-10.18.18:947][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.04-10.18.19:310][  0]LogDerivedDataCache: Loaded boot cache 0.36s 74MB C:/Users/ukyos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.04-10.18.19:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ukyos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.04-10.18.19:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal ljs/ItemPrototype_LJS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.04-10.18.19:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.04-10.18.19:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal ljs/ItemPrototype_LJS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.04-10.18.19:311][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.04-10.18.19:336][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.04-10.18.19:356][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ukyos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.04-10.18.19:356][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.04-10.18.19:356][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.04-10.18.19:415][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.04-10.18.19:421][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.04-10.18.19:438][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.04-10.18.19:761][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2018.08.04-10.18.20:262][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.04-10.18.20:740][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.04-10.18.20:794][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.04-10.18.20:794][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.04-10.18.20:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.04-10.18.20:795][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.04-10.18.20:860][  0]LogNetVersion: ItemPrototype_LJS 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1764660734)
+[2018.08.04-10.18.22:121][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.088868 seconds
+[2018.08.04-10.18.22:129][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.04-10.18.22:130][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.04-10.18.22:130][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.04-10.18.26:353][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.04-10.18.26:384][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.04-10.18.26:935][  0]SourceControl: Source control is disabled
+[2018.08.04-10.18.26:936][  0]SourceControl: Source control is disabled
+[2018.08.04-10.18.26:966][  0]SourceControl: Source control is disabled
+[2018.08.04-10.18.26:984][  0]SourceControl: Source control is disabled
+[2018.08.04-10.18.27:790][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.04-10.18.27:993][  0]LogOcInput: OculusInput pre-init called
+[2018.08.04-10.18.28:175][  0]LogEngine: Initializing Engine...
+[2018.08.04-10.18.28:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.04-10.18.28:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.08.04-10.18.28:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.04-10.18.28:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.04-10.18.28:181][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.04-10.18.28:460][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.04-10.18.28:519][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.04-10.18.28:561][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-10.18.28:598][  0]LogInit: FAudioDevice initialized.
+[2018.08.04-10.18.28:598][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.04-10.18.28:686][  0]LogDerivedDataCache: Saved boot cache 0.09s 88MB C:/Users/ukyos/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.04-10.18.28:697][  0]LogInit: Texture streaming: Enabled
+[2018.08.04-10.18.28:790][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.04-10.18.28:940][  0]LogInit: Transaction tracking system initialized
+[2018.08.04-10.18.29:070][  0]BlueprintLog: New page: Editor Load
+[2018.08.04-10.18.29:579][  0]LocalizationService: Localization service is disabled
+[2018.08.04-10.18.30:262][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.04-10.18.30:263][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.04-10.18.30:263][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.04-10.18.30:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.04-10.18.30:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.04-10.18.30:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.04-10.18.30:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.04-10.18.30:731][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal ljs/ItemPrototype_LJS/Content/' took 0.02s
+[2018.08.04-10.18.30:985][  0]SourceControl: Source control is disabled
+[2018.08.04-10.18.30:986][  0]Cmd: MAP LOAD FILE="D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPersonBP/Maps/LJS_LV_SpawnVolume.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.04-10.18.30:988][  0]LightingResults: New page: Lighting Build
+[2018.08.04-10.18.30:997][  0]MapCheck: New page: Map Check
+[2018.08.04-10.18.30:997][  0]LightingResults: New page: Lighting Build
+[2018.08.04-10.18.31:027][  0]LogLinker: Warning: Asset 'D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPersonBP/Maps/LJS_LV_SpawnVolume.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.08.04-10.18.31:131][  0]LogLinker: Warning: Asset 'D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPersonBP/Blueprints/LJS_ENUM_CHARTYPE.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.08.04-10.18.33:998][  0]LogLinker: Warning: Asset 'D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPersonBP/Blueprints/LJS_WID_ProtoItem.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.08.04-10.18.35:053][  0]LogLinker: Warning: Asset 'D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPerson/Meshes/LJS_MAT_Grenade.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.08.04-10.18.35:147][  0]LogBlueprint: Warning: [Compiler LJS_WID_ProtoItem] Default value for  B  on  float / float  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2018.08.04-10.18.35:147][  0]LogBlueprint: Warning: [Compiler LJS_WID_ProtoItem] Default value for  B  on  float - float  has changed and this asset is from a version that may have had incorrect default value information - verify and resave
+[2018.08.04-10.18.35:308][  0]LogBlueprint: Warning: [Compiler LJS_WID_ProtoItem] [0031.46] Compile of LJS_WID_ProtoItem successful, but with 2 Warning(s) [in 193 ms] (/Game/FirstPersonBP/Blueprints/LJS_WID_ProtoItem.LJS_WID_ProtoItem)
+[2018.08.04-10.18.35:806][  0]LogTexture: Display: Building textures: FirstPersonCrosshair (AutoDXT, 16X16)
+[2018.08.04-10.18.35:806][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd
+[2018.08.04-10.18.35:806][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/FirstPerson/Animations/FirstPerson_JumpEnd.FirstPerson_JumpEnd) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.04-10.18.36:127][  0]LogClass: Warning: Enum '/Game/FirstPersonBP/Blueprints/LJS_ENUM_CHARTYPE.LJS_ENUM_CHARTYPE' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.08.04-10.18.36:129][  0]LogAIModule: Creating AISystem for world LJS_LV_SpawnVolume
+[2018.08.04-10.18.36:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.04-10.18.36:185][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.04-10.18.36:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138.981ms to complete.
+[2018.08.04-10.18.36:325][  0]LogFileHelpers: Loading map 'LJS_LV_SpawnVolume' took 5.339
+[2018.08.04-10.18.36:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.18.36:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.18.36:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.18.36:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.18.36:642][  0]LogCollectionManager: Loaded 0 collections in 0.002164 seconds
+[2018.08.04-10.18.36:740][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal ljs/ItemPrototype_LJS/Saved/Collections/' took 0.01s
+[2018.08.04-10.18.36:740][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal ljs/ItemPrototype_LJS/Content/Developers/ukyos/Collections/' took 0.01s
+[2018.08.04-10.18.36:740][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal ljs/ItemPrototype_LJS/Content/Collections/' took 0.01s
+[2018.08.04-10.18.36:740][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.04-10.18.36:755][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2575 classes and 608 folders.
+[2018.08.04-10.18.36:775][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.04-10.18.37:258][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.04-10.18.37:314][  0]LogSlate: Took 0.007600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.04-10.18.37:325][  0]LogSlate: Took 0.006971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.04-10.18.37:339][  0]LogSlate: Took 0.006912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.04-10.18.37:465][  0]LogRenderer: Reallocating scene render targets to support 1344x596 Format 10 NumSamples 1 (Frame:1).
+[2018.08.04-10.18.37:694][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.04-10.18.37:694][  0]LogLoad: (Engine Initialization) Total time: 33.85 seconds
+[2018.08.04-10.18.37:694][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.04-10.18.37:730][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.04-10.18.37:771][  0]LogSlate: Took 0.006911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.04-10.18.38:732][ 71]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.04-10.18.40:279][245]LogAssetRegistry: Asset discovery search completed in 20.5412 seconds
+[2018.08.04-10.18.40:282][245]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.04-10.18.40:282][245]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000456 seconds (updated 0 objects)
+[2018.08.04-10.18.41:648][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-10.18.41:777][407]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.08.04-10.18.42:368][407]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.04-10.18.43:567][407]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/LJS_PRO_Grenade.LJS_PRO_Grenade
+[2018.08.04-10.18.43:958][407]LogSlate: Took 0.006402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.04-10.18.44:146][408]LogSlate: Took 0.004898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.04-10.18.49:102][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-10.18.49:117][964]PIE: New page: PIE session: LJS_LV_SpawnVolume (Aug 5, 2018, 4:18:49 AM)
+[2018.08.04-10.18.49:118][964]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume
+[2018.08.04-10.18.49:128][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010270s)
+[2018.08.04-10.18.49:129][964]LogAIModule: Creating AISystem for world LJS_LV_SpawnVolume
+[2018.08.04-10.18.49:129][964]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.08.04-10.18.49:129][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LJS_LV_SpawnVolume.LJS_LV_SpawnVolume to /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume (0.011842s)
+[2018.08.04-10.18.49:186][964]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-10.18.49:200][964]LogInit: FAudioDevice initialized.
+[2018.08.04-10.18.49:210][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.18.49:258][964]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.04-10.18.49:262][964]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume up for play (max tick rate 0) at 2018.08.04-19.18.49
+[2018.08.04-10.18.49:262][964]LogWorld: Bringing up level for play took: 0.001276
+[2018.08.04-10.18.49:290][964]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.08.04-10.18.49:290][964]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.04-10.18.49:290][964]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.04-10.18.49:290][964]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.04-10.18.49:301][964]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.04-10.18.49:306][964]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume 0.733
+[2018.08.04-10.18.49:341][964]LogRenderer: Reallocating scene render targets to support 1344x756 Format 10 NumSamples 1 (Frame:1).
+[2018.08.04-10.18.49:341][964]LogSlate: Took 0.020887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.04-10.18.51:403][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.18.51:550][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.18.58:215][878]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.18.58:360][893]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.18.58:501][907]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.18.58:647][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.18.58:787][936]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.18.58:935][951]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.18.59:079][966]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.18.59:218][980]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.18.59:366][995]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.18.59:500][  9]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.18.59:647][ 24]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.18.59:786][ 38]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.18.59:934][ 53]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.00:082][ 68]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.00:222][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.00:360][ 96]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.00:507][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.00:651][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.00:789][139]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.00:930][153]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.00:998][160]LogCharacterMovement: LJS_BP_EnemyCylinder_C_0 is stuck and failed to move! Velocity: X=-20.26 Y=0.97 Z=0.00 Location: X=-422.49 Y=-199.84 Z=157.03 Normal: X=-0.54 Y=0.84 Z=0.00 PenetrationDepth:0.029 Actor:LJS_BP_EnemyCylinder_C_1 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.01:082][168]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.01:220][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.01:357][196]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.01:503][210]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.01:647][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.01:793][238]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.01:939][252]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.02:074][265]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.03:129][368]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 빠른 재장전 성공
+[2018.08.04-10.19.03:129][368]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.03:427][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.03:574][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.03:722][425]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.03:857][438]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.04:001][452]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.04:076][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1868.514 Y=-230.127 Z=825.500] for [LJS_BP_EnemyCylinder_C]
+[2018.08.04-10.19.04:148][466]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.04:295][480]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.04:432][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.04:582][507]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.04:718][520]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.04:863][534]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.05:008][548]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.05:144][561]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.05:289][575]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.05:438][589]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.05:577][602]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.05:716][615]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.05:866][629]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.06:008][642]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.06:151][655]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.06:286][667]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.06:431][680]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.06:575][693]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.06:717][706]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.06:865][719]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.06:999][731]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.07:150][744]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.07:295][757]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.07:440][770]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.07:574][782]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.08:564][871]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 빠른 재장전 성공
+[2018.08.04-10.19.08:564][871]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.08:702][883]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.08:853][896]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.08:988][908]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.09:135][921]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.09:279][934]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.09:425][947]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.09:560][959]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.09:709][972]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.09:854][985]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.09:988][997]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.10:136][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.10:282][ 23]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.10:428][ 36]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.10:559][ 47]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.10:715][ 59]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.10:846][ 70]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.10:994][ 83]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.11:135][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.11:173][ 98]LogCharacterMovement: LJS_BP_EnemyCube_C_8 is stuck and failed to move! Velocity: X=-496.88 Y=55.73 Z=0.00 Location: X=1292.12 Y=-28.07 Z=154.98 Normal: X=0.81 Y=0.25 Z=-0.53 PenetrationDepth:9.615 Actor:LJS_BP_EnemyCylinder_C_16 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.11:286][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.11:424][118]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.11:563][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.11:711][142]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.11:850][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.11:990][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.12:134][178]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.12:278][190]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.12:423][202]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.12:568][214]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.12:709][226]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.12:849][238]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.14:247][359]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-46.54 Y=-2.82 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.408 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.15:258][446]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-358.34 Y=-22.05 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (82 other events since notify)
+[2018.08.04-10.19.15:855][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.15:947][505]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Health Used
+[2018.08.04-10.19.16:176][524]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-24.17 Y=-7.07 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.50 Y=-0.86 Z=-0.00 PenetrationDepth:2.150 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.16:259][531]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-242.21 Y=-14.90 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (79 other events since notify)
+[2018.08.04-10.19.16:270][532]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] AttackPower Used
+[2018.08.04-10.19.16:484][550]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] DefensePower Used
+[2018.08.04-10.19.16:694][567]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.16:839][578]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.16:992][590]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.17:138][601]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.17:187][605]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-25.32 Y=-7.40 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (41 other events since notify)
+[2018.08.04-10.19.17:266][611]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-238.84 Y=-14.70 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (74 other events since notify)
+[2018.08.04-10.19.17:269][611]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.17:304][614]LogCharacterMovement: LJS_BP_EnemyCube_C_10 is stuck and failed to move! Velocity: X=-47.79 Y=17.16 Z=0.00 Location: X=-425.87 Y=-303.95 Z=157.03 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:20.583 Actor:LJS_BP_EnemyCylinder_C_16 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.17:367][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 30
+[2018.08.04-10.19.17:368][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] slowenemyall
+[2018.08.04-10.19.17:461][626]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.17:614][637]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.17:749][647]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.17:894][658]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.18:040][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.18:188][680]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.18:200][681]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-28.03 Y=-8.19 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (37 other events since notify)
+[2018.08.04-10.19.18:268][686]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-49.91 Y=-3.07 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (73 other events since notify)
+[2018.08.04-10.19.18:324][690]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.18:470][701]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.18:609][711]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.18:760][722]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.18:896][732]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.19:039][743]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.19:187][754]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.19:227][757]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-26.45 Y=-7.73 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (37 other events since notify)
+[2018.08.04-10.19.19:269][760]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-49.91 Y=-3.07 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (73 other events since notify)
+[2018.08.04-10.19.19:325][764]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.19:474][775]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.19:612][785]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.19:624][786]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-31.62 Y=-2.48 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.94 Y=-0.33 Z=-0.00 PenetrationDepth:3.643 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.19:752][795]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.19:903][806]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.20:042][816]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.20:181][826]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.20:246][831]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-25.18 Y=-7.36 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (36 other events since notify)
+[2018.08.04-10.19.20:273][833]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-49.91 Y=-3.07 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (72 other events since notify)
+[2018.08.04-10.19.20:330][837]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.20:465][847]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.20:616][858]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.20:640][860]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-27.51 Y=-2.16 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (36 other events since notify)
+[2018.08.04-10.19.20:753][868]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.20:898][878]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.21:252][903]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-28.29 Y=-8.27 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.19.21:282][905]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-49.91 Y=-3.07 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (71 other events since notify)
+[2018.08.04-10.19.21:661][932]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-30.44 Y=-2.39 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.19.22:007][956]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 빠른 재장전 성공
+[2018.08.04-10.19.22:007][956]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.22:223][971]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.22:253][973]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-26.32 Y=-7.69 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.19.22:295][976]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-49.91 Y=-3.07 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (70 other events since notify)
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_5] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_10] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_7] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_11] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_12] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_22] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_16] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_9] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_15] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_13] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_15] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_11] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_16] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_9] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_14] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_17] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_4] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_6] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_20] 5.007576
+[2018.08.04-10.19.22:367][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_13] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_8] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_17] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_18] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_21] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_14] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_18] 5.007576
+[2018.08.04-10.19.22:368][981]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_19] 5.007576
+[2018.08.04-10.19.22:383][982]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.22:513][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.22:658][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.22:670][  2]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-31.66 Y=-2.48 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.19.22:801][ 11]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.22:941][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.23:095][ 32]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.23:232][ 42]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.23:257][ 44]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-26.18 Y=-7.66 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.19.23:300][ 47]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-114.66 Y=-7.05 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (65 other events since notify)
+[2018.08.04-10.19.23:373][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.23:517][ 62]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.23:662][ 72]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.23:688][ 74]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-30.96 Y=-2.43 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.19.23:808][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.23:953][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.24:097][102]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.24:227][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.24:268][114]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-29.71 Y=-8.69 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.19.24:312][116]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-86.63 Y=-5.33 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (62 other events since notify)
+[2018.08.04-10.19.24:381][121]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.24:519][131]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.24:709][144]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-31.62 Y=-2.48 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.19.25:269][180]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.25:299][182]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-27.94 Y=-8.17 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (31 other events since notify)
+[2018.08.04-10.19.25:316][183]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-64.47 Y=-3.97 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (60 other events since notify)
+[2018.08.04-10.19.25:429][190]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.25:569][199]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.25:711][208]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-32.10 Y=-2.52 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (31 other events since notify)
+[2018.08.04-10.19.25:715][208]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.25:857][217]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.25:949][223]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Health Ready
+[2018.08.04-10.19.25:997][226]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.26:137][235]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.26:277][244]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Offense Ready
+[2018.08.04-10.19.26:279][244]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.26:323][247]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-30.60 Y=-8.95 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (31 other events since notify)
+[2018.08.04-10.19.26:324][247]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-163.28 Y=-10.05 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (57 other events since notify)
+[2018.08.04-10.19.26:421][253]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.26:566][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.26:610][265]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-30.06 Y=9.56 Z=0.00 Location: X=-16.75 Y=-406.23 Z=157.03 Normal: X=-0.95 Y=0.31 Z=-0.00 PenetrationDepth:24.877 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.26:706][270]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.26:717][271]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-33.63 Y=-2.64 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (30 other events since notify)
+[2018.08.04-10.19.26:856][279]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.26:990][287]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.27:339][308]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-38.70 Y=-2.38 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (53 other events since notify)
+[2018.08.04-10.19.27:389][311]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.20 Y=-9.42 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (24 other events since notify)
+[2018.08.04-10.19.27:732][332]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-31.08 Y=-13.00 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.55 Y=-0.84 Z=0.00 PenetrationDepth:3.239 Actor:LJS_BP_EnemyCylinder_C_32 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.27:746][333]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-32.52 Y=-2.55 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.19.27:959][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 빠른 재장전 성공
+[2018.08.04-10.19.27:959][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.28:141][357]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.28:293][366]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.28:340][369]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-202.56 Y=-12.46 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (54 other events since notify)
+[2018.08.04-10.19.28:340][369]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-498.93 Y=32.66 Z=0.00 Location: X=-479.11 Y=-200.65 Z=157.02 Normal: X=-0.70 Y=0.72 Z=0.00 PenetrationDepth:0.720 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.28:421][374]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.22 Y=-9.42 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (25 other events since notify)
+[2018.08.04-10.19.28:441][375]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.28:585][384]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.28:730][393]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.28:744][394]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-30.84 Y=-12.90 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (30 other events since notify)
+[2018.08.04-10.19.28:758][395]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-34.07 Y=-2.67 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.19.28:873][402]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.29:016][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.29:108][417]LogCharacterMovement: LJS_BP_EnemyCylinder_C_27 is stuck and failed to move! Velocity: X=-33.21 Y=10.58 Z=0.00 Location: X=-433.88 Y=-273.74 Z=157.03 Normal: X=0.93 Y=-0.37 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_20 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.19.29:158][420]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 22
+[2018.08.04-10.19.29:289][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 21
+[2018.08.04-10.19.29:356][431]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-38.60 Y=-2.37 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (54 other events since notify)
+[2018.08.04-10.19.29:357][431]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-292.21 Y=28.16 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (48 other events since notify)
+[2018.08.04-10.19.29:431][435]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 20
+[2018.08.04-10.19.29:530][441]LogCharacterMovement: LJS_BP_EnemyCube_C_22 is stuck and failed to move! Velocity: X=-25.32 Y=-24.28 Z=0.00 Location: X=-832.77 Y=201.03 Z=157.03 Normal: X=-0.72 Y=-0.69 Z=-0.00 PenetrationDepth:3.824 Actor:LJS_BP_EnemyCylinder_C_26 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.29:582][444]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.55 Y=-9.52 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (22 other events since notify)
+[2018.08.04-10.19.29:587][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 19
+[2018.08.04-10.19.29:724][452]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 18
+[2018.08.04-10.19.29:771][455]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] AttackPower Used
+[2018.08.04-10.19.29:809][457]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-33.50 Y=-14.01 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (27 other events since notify)
+[2018.08.04-10.19.29:842][459]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-35.53 Y=-2.79 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (25 other events since notify)
+[2018.08.04-10.19.29:864][460]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 17
+[2018.08.04-10.19.30:002][468]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 16
+[2018.08.04-10.19.30:154][477]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 15
+[2018.08.04-10.19.30:292][485]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 14
+[2018.08.04-10.19.30:362][489]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-261.66 Y=-16.10 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (51 other events since notify)
+[2018.08.04-10.19.30:362][489]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-116.66 Y=11.24 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=-0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (51 other events since notify)
+[2018.08.04-10.19.30:434][493]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 13
+[2018.08.04-10.19.30:575][501]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 12
+[2018.08.04-10.19.30:735][510]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 11
+[2018.08.04-10.19.30:823][515]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-31.98 Y=-13.37 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (24 other events since notify)
+[2018.08.04-10.19.30:838][516]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.67 Y=-9.55 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (8 other events since notify)
+[2018.08.04-10.19.30:855][517]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-35.01 Y=-2.75 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (20 other events since notify)
+[2018.08.04-10.19.30:859][517]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 10
+[2018.08.04-10.19.31:010][526]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 9
+[2018.08.04-10.19.31:161][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 8
+[2018.08.04-10.19.31:298][543]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 7
+[2018.08.04-10.19.31:366][547]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-216.78 Y=-13.34 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (50 other events since notify)
+[2018.08.04-10.19.31:366][547]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-70.91 Y=6.83 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=-0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (51 other events since notify)
+[2018.08.04-10.19.31:438][551]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 6
+[2018.08.04-10.19.31:566][558]LogCharacterMovement: LJS_BP_EnemyCube_C_26 is stuck and failed to move! Velocity: X=-34.63 Y=-13.18 Z=0.00 Location: X=1017.13 Y=341.71 Z=156.98 Normal: X=-1.00 Y=-0.04 Z=0.00 PenetrationDepth:1.491 Actor:LJS_BP_EnemyCylinder_C_35 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.31:589][559]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.19.31:716][566]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.19.31:852][574]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-32.36 Y=-13.54 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (24 other events since notify)
+[2018.08.04-10.19.31:871][575]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.19.31:884][576]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-34.15 Y=-2.68 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (22 other events since notify)
+[2018.08.04-10.19.31:918][578]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.51 Y=-9.51 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (5 other events since notify)
+[2018.08.04-10.19.32:006][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.19.32:145][591]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.19.32:288][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.19.32:369][604]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-102.99 Y=-6.34 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (49 other events since notify)
+[2018.08.04-10.19.32:369][604]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-34.93 Y=3.37 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=-0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (50 other events since notify)
+[2018.08.04-10.19.32:586][617]LogCharacterMovement: LJS_BP_EnemyCube_C_26 is stuck and failed to move! Velocity: X=-32.10 Y=-12.21 Z=0.00 Location: X=1017.13 Y=341.71 Z=156.98 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:16.176 Actor:LJS_BP_EnemyCylinder_C_35 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.19.32:883][635]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-30.81 Y=-12.89 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.19.32:932][638]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-33.78 Y=-2.65 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.19.32:932][638]LogCharacterMovement: LJS_BP_EnemyCube_C_11 is stuck and failed to move! Velocity: X=-32.52 Y=-9.51 Z=0.00 Location: X=432.34 Y=47.50 Z=156.98 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:4.301 Actor:LJS_BP_EnemyCylinder_C_17 Component:Cylinder BoneName:None (17 other events since notify)
+[2018.08.04-10.19.33:378][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 빠른 재장전 성공
+[2018.08.04-10.19.33:378][665]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Reload Complete
+[2018.08.04-10.19.33:380][665]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-243.28 Y=23.44 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=-0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (55 other events since notify)
+[2018.08.04-10.19.33:397][666]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-33.95 Y=-2.09 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (54 other events since notify)
+[2018.08.04-10.19.33:554][675]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.19.33:606][678]LogCharacterMovement: LJS_BP_EnemyCube_C_26 is stuck and failed to move! Velocity: X=-31.38 Y=-11.94 Z=0.00 Location: X=1017.13 Y=341.71 Z=156.98 Normal: X=0.14 Y=-0.99 Z=0.00 PenetrationDepth:9.083 Actor:LJS_BP_EnemyCylinder_C_36 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.19.33:711][684]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 28
+[2018.08.04-10.19.33:849][692]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 27
+[2018.08.04-10.19.33:979][699]LogCharacterMovement: LJS_BP_EnemyCube_C_17 is stuck and failed to move! Velocity: X=-33.87 Y=-14.16 Z=0.00 Location: X=802.84 Y=304.71 Z=156.98 Normal: X=-0.94 Y=0.34 Z=-0.00 PenetrationDepth:4.384 Actor:LJS_BP_EnemyCylinder_C_28 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.19.33:994][700]LogCharacterMovement: LJS_BP_EnemyCube_C_12 is stuck and failed to move! Velocity: X=-34.80 Y=-2.73 Z=0.00 Location: X=924.37 Y=74.75 Z=156.98 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:20.558 Actor:LJS_BP_EnemyCylinder_C_23 Component:Cylinder BoneName:None (27 other events since notify)
+[2018.08.04-10.19.33:999][700]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 26
+[2018.08.04-10.19.34:143][708]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 25
+[2018.08.04-10.19.34:289][716]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 24
+[2018.08.04-10.19.34:392][722]LogCharacterMovement: LJS_BP_EnemyCube_C_20 is stuck and failed to move! Velocity: X=-255.27 Y=24.60 Z=0.00 Location: X=-524.44 Y=-199.88 Z=157.02 Normal: X=-0.79 Y=0.61 Z=-0.00 PenetrationDepth:7.509 Actor:LJS_BP_EnemyCylinder_C_27 Component:Cylinder BoneName:None (50 other events since notify)
+[2018.08.04-10.19.34:411][723]LogCharacterMovement: LJS_BP_EnemyCube_C_4 is stuck and failed to move! Velocity: X=-75.21 Y=-4.63 Z=0.00 Location: X=1208.07 Y=-503.56 Z=156.98 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:18.445 Actor:LJS_BP_EnemyCylinder_C_15 Component:Cylinder BoneName:None (49 other events since notify)
+[2018.08.04-10.19.34:415][723]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 23
+[2018.08.04-10.19.36:664][953]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 29
+[2018.08.04-10.19.36:810][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 28
+[2018.08.04-10.19.39:633][238]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 27
+[2018.08.04-10.19.39:645][239]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_189
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.39:645][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.39:781][252]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 26
+[2018.08.04-10.19.39:927][266]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 25
+[2018.08.04-10.19.39:969][270]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_191
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.39:969][270]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.40:065][279]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 24
+[2018.08.04-10.19.40:101][282]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_192
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.40:101][282]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.40:212][292]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 23
+[2018.08.04-10.19.40:351][305]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 22
+[2018.08.04-10.19.40:489][318]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 21
+[2018.08.04-10.19.40:640][332]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 20
+[2018.08.04-10.19.40:779][345]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 19
+[2018.08.04-10.19.40:929][359]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 18
+[2018.08.04-10.19.41:067][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 17
+[2018.08.04-10.19.41:210][385]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 16
+[2018.08.04-10.19.41:285][392]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_200
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.41:285][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.41:354][398]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 15
+[2018.08.04-10.19.41:430][405]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_201
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.41:431][405]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.41:496][411]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 14
+[2018.08.04-10.19.41:645][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 13
+[2018.08.04-10.19.41:781][435]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 12
+[2018.08.04-10.19.41:924][447]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 11
+[2018.08.04-10.19.42:069][460]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 10
+[2018.08.04-10.19.42:214][472]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 9
+[2018.08.04-10.19.42:350][484]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 8
+[2018.08.04-10.19.42:500][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 7
+[2018.08.04-10.19.42:638][509]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2018.08.04-10.19.42:783][522]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2018.08.04-10.19.42:838][527]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_211
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.42:838][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.42:930][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2018.08.04-10.19.42:989][540]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_212
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.42:989][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.43:063][546]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2018.08.04-10.19.43:181][556]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_213
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.43:182][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.43:206][558]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2018.08.04-10.19.43:330][569]LogScript: Warning: Accessed None trying to read property K2Node_Event_Other
+	FirstPersonProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume:PersistentLevel.FirstPersonProjectile_C_214
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile:00B5
+[2018.08.04-10.19.43:330][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_Other". Blueprint:  FirstPersonProjectile Function:  Execute Ubergraph First Person Projectile Graph:  EventGraph Node:  Branch
+[2018.08.04-10.19.43:355][571]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2018.08.04-10.19.43:499][583]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0
+[2018.08.04-10.19.43:887][616]LogCharacterMovement: LJS_BP_EnemyCube_C_40 is stuck and failed to move! Velocity: X=-477.76 Y=-147.47 Z=0.00 Location: X=116.40 Y=-37.57 Z=156.98 Normal: X=0.31 Y=-0.95 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_42 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.19.44:532][672]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 빠른 재장전 성공
+[2018.08.04-10.19.44:533][672]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Reload Complete
+[2018.08.04-10.19.44:723][688]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 29
+[2018.08.04-10.19.44:866][700]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 28
+[2018.08.04-10.19.45:016][713]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 27
+[2018.08.04-10.19.45:157][725]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 26
+[2018.08.04-10.19.45:305][738]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 25
+[2018.08.04-10.19.45:443][750]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 24
+[2018.08.04-10.19.45:592][763]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 23
+[2018.08.04-10.19.45:731][775]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 22
+[2018.08.04-10.19.45:869][787]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 21
+[2018.08.04-10.19.46:010][799]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 20
+[2018.08.04-10.19.46:164][812]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 19
+[2018.08.04-10.19.46:305][824]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 18
+[2018.08.04-10.19.46:445][836]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 17
+[2018.08.04-10.19.46:590][848]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 16
+[2018.08.04-10.19.46:729][860]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 15
+[2018.08.04-10.19.46:868][872]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 14
+[2018.08.04-10.19.47:017][885]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 13
+[2018.08.04-10.19.47:163][897]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 12
+[2018.08.04-10.19.47:295][908]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 11
+[2018.08.04-10.19.47:443][920]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 10
+[2018.08.04-10.19.47:584][931]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 9
+[2018.08.04-10.19.47:730][943]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 8
+[2018.08.04-10.19.47:872][955]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 7
+[2018.08.04-10.19.48:016][967]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2018.08.04-10.19.48:161][979]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2018.08.04-10.19.48:302][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2018.08.04-10.19.48:438][  2]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2018.08.04-10.19.48:523][  9]LogCharacterMovement: LJS_BP_EnemyCube_C_44 is stuck and failed to move! Velocity: X=-22.56 Y=-6.16 Z=0.00 Location: X=426.61 Y=30.09 Z=156.98 Normal: X=-0.99 Y=-0.16 Z=0.00 PenetrationDepth:13.432 Actor:LJS_BP_EnemyCylinder_C_49 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.48:587][ 14]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2018.08.04-10.19.48:736][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2018.08.04-10.19.48:875][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0
+[2018.08.04-10.19.49:551][ 92]LogCharacterMovement: LJS_BP_EnemyCube_C_44 is stuck and failed to move! Velocity: X=-23.10 Y=-6.30 Z=0.00 Location: X=426.61 Y=30.09 Z=156.98 Normal: X=-0.99 Y=-0.16 Z=0.00 PenetrationDepth:23.620 Actor:LJS_BP_EnemyCylinder_C_49 Component:Cylinder BoneName:None (12 other events since notify)
+[2018.08.04-10.19.49:650][100]LogCharacterMovement: LJS_BP_EnemyCylinder_C_50 is stuck and failed to move! Velocity: X=-22.29 Y=-8.23 Z=0.00 Location: X=569.04 Y=160.20 Z=156.98 Normal: X=-0.28 Y=-0.96 Z=-0.00 PenetrationDepth:0.193 Actor:LJS_BP_EnemyCylinder_C_52 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.49:904][121]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 빠른 재장전 성공
+[2018.08.04-10.19.49:904][121]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Reload Complete
+[2018.08.04-10.19.50:109][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 29
+[2018.08.04-10.19.50:257][147]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 28
+[2018.08.04-10.19.50:400][159]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 27
+[2018.08.04-10.19.50:543][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 26
+[2018.08.04-10.19.50:567][173]LogCharacterMovement: LJS_BP_EnemyCube_C_44 is stuck and failed to move! Velocity: X=-23.50 Y=-6.41 Z=0.00 Location: X=426.61 Y=30.09 Z=156.98 Normal: X=-0.99 Y=-0.16 Z=0.00 PenetrationDepth:23.620 Actor:LJS_BP_EnemyCylinder_C_49 Component:Cylinder BoneName:None (26 other events since notify)
+[2018.08.04-10.19.50:690][183]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 25
+[2018.08.04-10.19.50:837][195]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 24
+[2018.08.04-10.19.50:970][206]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 23
+[2018.08.04-10.19.51:115][218]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 22
+[2018.08.04-10.19.51:256][229]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 21
+[2018.08.04-10.19.51:401][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 20
+[2018.08.04-10.19.51:543][251]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 19
+[2018.08.04-10.19.51:684][262]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 18
+[2018.08.04-10.19.51:827][273]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 17
+[2018.08.04-10.19.51:970][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 16
+[2018.08.04-10.19.52:118][295]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 15
+[2018.08.04-10.19.52:258][306]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 14
+[2018.08.04-10.19.52:399][317]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 13
+[2018.08.04-10.19.52:551][329]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 12
+[2018.08.04-10.19.52:695][340]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 11
+[2018.08.04-10.19.52:826][350]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 10
+[2018.08.04-10.19.52:977][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 9
+[2018.08.04-10.19.53:119][373]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 8
+[2018.08.04-10.19.53:263][384]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 7
+[2018.08.04-10.19.53:407][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2018.08.04-10.19.53:540][405]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2018.08.04-10.19.53:683][416]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 4
+[2018.08.04-10.19.53:825][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 3
+[2018.08.04-10.19.53:978][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 2
+[2018.08.04-10.19.54:119][450]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 1
+[2018.08.04-10.19.54:262][461]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0
+[2018.08.04-10.19.55:229][538]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 빠른 재장전 성공
+[2018.08.04-10.19.55:229][538]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Reload Complete
+[2018.08.04-10.19.55:356][548]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 29
+[2018.08.04-10.19.55:503][559]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 28
+[2018.08.04-10.19.55:648][570]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 27
+[2018.08.04-10.19.55:797][580]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 26
+[2018.08.04-10.19.55:929][589]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 25
+[2018.08.04-10.19.56:076][599]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 24
+[2018.08.04-10.19.56:220][609]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 23
+[2018.08.04-10.19.56:363][619]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 22
+[2018.08.04-10.19.56:514][629]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 21
+[2018.08.04-10.19.56:648][638]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 20
+[2018.08.04-10.19.56:792][648]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 19
+[2018.08.04-10.19.56:932][658]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 18
+[2018.08.04-10.19.57:087][669]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 17
+[2018.08.04-10.19.57:224][678]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 16
+[2018.08.04-10.19.57:370][688]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 15
+[2018.08.04-10.19.57:514][698]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 14
+[2018.08.04-10.19.57:647][707]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 13
+[2018.08.04-10.19.57:796][717]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 12
+[2018.08.04-10.19.57:936][726]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 11
+[2018.08.04-10.19.58:074][735]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 10
+[2018.08.04-10.19.58:147][740]LogCharacterMovement: LJS_BP_EnemyCube_C_53 is stuck and failed to move! Velocity: X=3.74 Y=-30.51 Z=0.00 Location: X=719.74 Y=-513.61 Z=157.03 Normal: X=-0.84 Y=0.55 Z=0.00 PenetrationDepth:2.495 Actor:LJS_BP_EnemyCylinder_C_58 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.19.58:224][745]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 9
+[2018.08.04-10.19.58:372][755]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 8
+[2018.08.04-10.19.58:504][764]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 7
+[2018.08.04-10.19.58:653][774]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 6
+[2018.08.04-10.19.58:800][784]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 5
+[2018.08.04-10.19.59:152][809]LogCharacterMovement: LJS_BP_EnemyCube_C_53 is stuck and failed to move! Velocity: X=3.54 Y=-28.86 Z=0.00 Location: X=719.74 Y=-513.61 Z=157.03 Normal: X=-0.84 Y=0.55 Z=0.00 PenetrationDepth:5.933 Actor:LJS_BP_EnemyCylinder_C_58 Component:Cylinder BoneName:None (33 other events since notify)
+[2018.08.04-10.20.00:161][881]LogCharacterMovement: LJS_BP_EnemyCube_C_53 is stuck and failed to move! Velocity: X=3.61 Y=-29.41 Z=0.00 Location: X=719.74 Y=-513.61 Z=157.03 Normal: X=-0.84 Y=0.55 Z=0.00 PenetrationDepth:5.933 Actor:LJS_BP_EnemyCylinder_C_58 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.20.00:407][898]LogCharacterMovement: LJS_BP_EnemyCube_C_50 is stuck and failed to move! Velocity: X=-26.63 Y=-10.45 Z=0.00 Location: X=844.54 Y=290.43 Z=156.98 Normal: X=-1.00 Y=-0.06 Z=0.00 PenetrationDepth:2.596 Actor:LJS_BP_EnemyCylinder_C_63 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.20.04:092][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-10.20.27:607][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-10.21.05:109][666]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 29
+[2018.08.04-10.21.05:483][699]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] AttackPower Used
+[2018.08.04-10.21.07:624][888]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-23.34 Y=-7.03 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.24 Z=-0.00 PenetrationDepth:2.068 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.08:315][948]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-22.06 Y=7.50 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:2.695 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.08:630][975]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-21.94 Y=-6.61 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (42 other events since notify)
+[2018.08.04-10.21.09:326][ 33]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-24.08 Y=8.19 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (41 other events since notify)
+[2018.08.04-10.21.09:636][ 58]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-23.72 Y=-7.14 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (40 other events since notify)
+[2018.08.04-10.21.10:348][116]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-22.44 Y=7.63 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (40 other events since notify)
+[2018.08.04-10.21.10:655][141]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-23.13 Y=-6.97 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (40 other events since notify)
+[2018.08.04-10.21.11:020][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] DefensePower Used
+[2018.08.04-10.21.11:363][198]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-23.72 Y=8.07 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (39 other events since notify)
+[2018.08.04-10.21.11:671][222]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-24.89 Y=-7.50 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (39 other events since notify)
+[2018.08.04-10.21.11:980][246]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-25.44 Y=-6.96 Z=0.00 Location: X=193.50 Y=-33.08 Z=157.03 Normal: X=-0.88 Y=-0.48 Z=0.00 PenetrationDepth:1.092 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.12:369][276]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-23.57 Y=8.02 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (37 other events since notify)
+[2018.08.04-10.21.12:677][300]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-25.56 Y=-7.70 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (36 other events since notify)
+[2018.08.04-10.21.12:917][318]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-26.13 Y=-7.18 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.22 Z=-0.00 PenetrationDepth:17.677 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.12:969][322]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 28
+[2018.08.04-10.21.12:998][324]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-26.56 Y=-7.27 Z=0.00 Location: X=193.50 Y=-33.08 Z=157.03 Normal: X=-0.82 Y=-0.57 Z=0.00 PenetrationDepth:20.948 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (38 other events since notify)
+[2018.08.04-10.21.13:123][333]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 27
+[2018.08.04-10.21.13:372][352]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-23.92 Y=8.13 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (31 other events since notify)
+[2018.08.04-10.21.13:502][362]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 26
+[2018.08.04-10.21.13:657][373]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 25
+[2018.08.04-10.21.13:697][376]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-25.41 Y=-7.65 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.21.13:790][383]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 24
+[2018.08.04-10.21.13:841][387]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-26.87 Y=-0.10 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.79 Y=0.61 Z=0.00 PenetrationDepth:2.922 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.13:935][394]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-24.77 Y=-6.81 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.21.13:937][394]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 23
+[2018.08.04-10.21.14:016][400]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-24.51 Y=-6.71 Z=0.00 Location: X=193.50 Y=-33.08 Z=157.03 Normal: X=-0.82 Y=-0.57 Z=0.00 PenetrationDepth:20.948 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (37 other events since notify)
+[2018.08.04-10.21.14:088][405]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 22
+[2018.08.04-10.21.14:221][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 21
+[2018.08.04-10.21.14:366][426]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 20
+[2018.08.04-10.21.14:405][429]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-24.61 Y=8.37 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.14:472][434]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-26.24 Y=8.91 Z=0.00 Location: X=195.78 Y=-469.24 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:3.992 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.14:615][444]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 19
+[2018.08.04-10.21.14:756][454]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-25.89 Y=-7.80 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (25 other events since notify)
+[2018.08.04-10.21.14:772][455]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 18
+[2018.08.04-10.21.14:850][461]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-28.01 Y=-0.10 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (33 other events since notify)
+[2018.08.04-10.21.14:909][465]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 17
+[2018.08.04-10.21.14:977][470]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-25.31 Y=-6.96 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (20 other events since notify)
+[2018.08.04-10.21.15:029][474]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-25.10 Y=-6.87 Z=0.00 Location: X=193.50 Y=-33.08 Z=157.03 Normal: X=-0.82 Y=-0.57 Z=0.00 PenetrationDepth:20.948 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (36 other events since notify)
+[2018.08.04-10.21.15:045][475]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 16
+[2018.08.04-10.21.15:195][486]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 15
+[2018.08.04-10.21.15:345][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 14
+[2018.08.04-10.21.15:424][503]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-25.91 Y=8.81 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (20 other events since notify)
+[2018.08.04-10.21.15:479][507]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] Offense Ready
+[2018.08.04-10.21.15:480][507]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 13
+[2018.08.04-10.21.15:492][508]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-29.63 Y=10.06 Z=0.00 Location: X=195.78 Y=-469.24 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.942 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (36 other events since notify)
+[2018.08.04-10.21.15:618][517]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 12
+[2018.08.04-10.21.15:768][528]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 11
+[2018.08.04-10.21.15:793][530]LogCharacterMovement: LJS_BP_EnemyCube_C_63 is stuck and failed to move! Velocity: X=-25.01 Y=-7.53 Z=0.00 Location: X=-336.10 Y=-176.78 Z=156.98 Normal: X=-0.97 Y=-0.22 Z=-0.00 PenetrationDepth:24.787 Actor:LJS_BP_EnemyCylinder_C_70 Component:Cylinder BoneName:None (19 other events since notify)
+[2018.08.04-10.21.15:863][535]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-27.89 Y=-0.10 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (33 other events since notify)
+[2018.08.04-10.21.15:909][538]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 10
+[2018.08.04-10.21.15:964][542]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-25.71 Y=-11.12 Z=0.00 Location: X=-134.73 Y=-83.95 Z=156.98 Normal: X=-0.96 Y=-0.26 Z=0.00 PenetrationDepth:23.271 Actor:LJS_BP_EnemyCylinder_C_69 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.16:057][548]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 9
+[2018.08.04-10.21.16:102][551]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-240.34 Y=-65.24 Z=0.00 Location: X=184.57 Y=-37.42 Z=157.03 Normal: X=-0.82 Y=-0.57 Z=0.00 PenetrationDepth:20.227 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.21.16:188][557]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 8
+[2018.08.04-10.21.16:344][568]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 7
+[2018.08.04-10.21.16:425][574]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-473.38 Y=160.98 Z=0.00 Location: X=-348.31 Y=-284.77 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (45 other events since notify)
+[2018.08.04-10.21.16:484][578]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 6
+[2018.08.04-10.21.16:511][580]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-28.27 Y=9.59 Z=0.00 Location: X=195.78 Y=-469.24 Z=157.03 Normal: X=-0.95 Y=0.32 Z=-0.00 PenetrationDepth:24.942 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.21.16:557][583]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-26.12 Y=-7.18 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (16 other events since notify)
+[2018.08.04-10.21.16:617][587]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 5
+[2018.08.04-10.21.16:762][597]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 4
+[2018.08.04-10.21.16:892][606]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-29.38 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (27 other events since notify)
+[2018.08.04-10.21.16:909][607]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 3
+[2018.08.04-10.21.17:050][616]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 2
+[2018.08.04-10.21.17:082][618]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-25.44 Y=-23.96 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.161 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.17:193][625]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 1
+[2018.08.04-10.21.17:310][633]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-27.46 Y=-14.09 Z=0.00 Location: X=-324.73 Y=-161.65 Z=156.98 Normal: X=-0.96 Y=-0.26 Z=-0.00 PenetrationDepth:3.961 Actor:LJS_BP_EnemyCylinder_C_69 Component:Cylinder BoneName:None (38 other events since notify)
+[2018.08.04-10.21.17:342][635]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 0
+[2018.08.04-10.21.17:453][643]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-28.50 Y=9.71 Z=0.00 Location: X=-470.53 Y=-243.33 Z=157.03 Normal: X=-0.95 Y=0.31 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (24 other events since notify)
+[2018.08.04-10.21.17:521][648]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-472.90 Y=162.39 Z=0.00 Location: X=73.36 Y=-430.49 Z=157.03 Normal: X=-0.97 Y=0.23 Z=-0.00 PenetrationDepth:24.746 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (27 other events since notify)
+[2018.08.04-10.21.17:786][666]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-26.80 Y=-4.24 Z=0.00 Location: X=2.53 Y=-129.44 Z=157.03 Normal: X=-0.70 Y=-0.72 Z=0.00 PenetrationDepth:5.679 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (38 other events since notify)
+[2018.08.04-10.21.17:786][666]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-26.17 Y=-7.19 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.17:898][674]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-29.57 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (16 other events since notify)
+[2018.08.04-10.21.18:083][687]LogCharacterMovement: LJS_BP_EnemyCylinder_C_74 is stuck and failed to move! Velocity: X=-30.70 Y=-9.73 Z=0.00 Location: X=84.11 Y=-42.74 Z=156.98 Normal: X=0.82 Y=0.57 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_70 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.21.18:085][687]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-23.44 Y=-22.08 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.161 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.18:313][703]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-25.17 Y=-12.91 Z=0.00 Location: X=-324.73 Y=-161.65 Z=156.98 Normal: X=-0.96 Y=-0.26 Z=-0.00 PenetrationDepth:23.011 Actor:LJS_BP_EnemyCylinder_C_69 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.18:461][713]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 빠른 재장전 성공
+[2018.08.04-10.21.18:461][713]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] Reload Complete
+[2018.08.04-10.21.18:462][713]LogCharacterMovement: LJS_BP_EnemyCube_C_64 is stuck and failed to move! Velocity: X=-32.54 Y=11.09 Z=0.00 Location: X=-470.53 Y=-243.33 Z=157.03 Normal: X=-0.95 Y=0.31 Z=-0.00 PenetrationDepth:24.878 Actor:LJS_BP_EnemyCylinder_C_71 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.18:533][718]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-286.69 Y=98.45 Z=0.00 Location: X=73.36 Y=-430.49 Z=157.03 Normal: X=-0.97 Y=0.23 Z=-0.00 PenetrationDepth:24.746 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (66 other events since notify)
+[2018.08.04-10.21.18:667][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 29
+[2018.08.04-10.21.18:819][737]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 28
+[2018.08.04-10.21.18:921][744]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-29.75 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (22 other events since notify)
+[2018.08.04-10.21.18:967][747]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 27
+[2018.08.04-10.21.19:101][756]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 26
+[2018.08.04-10.21.19:241][765]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 25
+[2018.08.04-10.21.19:314][770]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-81.17 Y=-41.63 Z=0.00 Location: X=-324.73 Y=-161.65 Z=156.98 Normal: X=-0.96 Y=-0.26 Z=-0.00 PenetrationDepth:23.011 Actor:LJS_BP_EnemyCylinder_C_69 Component:Cylinder BoneName:None (32 other events since notify)
+[2018.08.04-10.21.19:343][772]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] Health Used
+[2018.08.04-10.21.19:392][775]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-63.55 Y=-10.03 Z=0.00 Location: X=1.98 Y=-129.84 Z=157.03 Normal: X=-0.70 Y=-0.72 Z=0.00 PenetrationDepth:4.971 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (1 other events since notify)
+[2018.08.04-10.21.19:394][775]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 24
+[2018.08.04-10.21.19:532][784]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 23
+[2018.08.04-10.21.19:670][793]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 22
+[2018.08.04-10.21.19:727][797]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-470.46 Y=169.31 Z=0.00 Location: X=-25.68 Y=-406.41 Z=157.03 Normal: X=-0.97 Y=0.23 Z=0.00 PenetrationDepth:21.337 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (48 other events since notify)
+[2018.08.04-10.21.19:819][803]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 21
+[2018.08.04-10.21.19:946][812]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-29.76 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (11 other events since notify)
+[2018.08.04-10.21.19:963][813]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 20
+[2018.08.04-10.21.20:092][822]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-23.06 Y=-21.72 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.160 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (1 other events since notify)
+[2018.08.04-10.21.20:093][822]LogCharacterMovement: LJS_BP_EnemyCylinder_C_77 is stuck and failed to move! Velocity: X=-30.00 Y=10.18 Z=0.00 Location: X=-354.50 Y=-282.47 Z=157.03 Normal: X=0.11 Y=-0.99 Z=-0.00 PenetrationDepth:3.272 Actor:LJS_BP_EnemyCube_C_66 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:104][823]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-28.24 Y=-10.60 Z=0.00 Location: X=-137.40 Y=-98.92 Z=156.98 Normal: X=0.01 Y=1.00 Z=0.00 PenetrationDepth:4.944 Actor:LJS_BP_EnemyCube_C_70 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:108][823]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-30.17 Y=0.42 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.98 Y=0.22 Z=0.00 PenetrationDepth:3.022 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:110][823]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 19
+[2018.08.04-10.21.20:241][832]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 18
+[2018.08.04-10.21.20:310][837]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-27.25 Y=-1.17 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.67 Y=-0.75 Z=0.00 PenetrationDepth:1.729 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:323][838]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-43.64 Y=-35.19 Z=0.00 Location: X=-353.74 Y=-168.83 Z=156.98 Normal: X=0.04 Y=1.00 Z=0.00 PenetrationDepth:4.351 Actor:LJS_BP_EnemyCylinder_C_77 Component:Cylinder BoneName:None (44 other events since notify)
+[2018.08.04-10.21.20:397][843]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 17
+[2018.08.04-10.21.20:542][853]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 16
+[2018.08.04-10.21.20:673][862]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 15
+[2018.08.04-10.21.20:684][863]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] AttackPower Used
+[2018.08.04-10.21.20:714][865]LogCharacterMovement: LJS_BP_EnemyCube_C_77 is stuck and failed to move! Velocity: X=-21.10 Y=-19.89 Z=0.00 Location: X=-391.16 Y=620.18 Z=157.03 Normal: X=-0.73 Y=-0.68 Z=-0.00 PenetrationDepth:1.904 Actor:LJS_BP_EnemyCylinder_C_81 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:728][866]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-82.70 Y=29.78 Z=0.00 Location: X=-29.61 Y=-405.14 Z=157.03 Normal: X=-0.97 Y=0.23 Z=0.00 PenetrationDepth:23.674 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (56 other events since notify)
+[2018.08.04-10.21.20:817][872]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 14
+[2018.08.04-10.21.20:874][876]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-26.18 Y=-7.20 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.20:959][882]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 13
+[2018.08.04-10.21.20:986][884]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-27.48 Y=-0.10 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.21.21:106][892]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 12
+[2018.08.04-10.21.21:116][893]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-468.10 Y=-175.74 Z=0.00 Location: X=-137.40 Y=-98.92 Z=156.98 Normal: X=0.01 Y=1.00 Z=0.00 PenetrationDepth:4.944 Actor:LJS_BP_EnemyCube_C_70 Component:Cube BoneName:None (69 other events since notify)
+[2018.08.04-10.21.21:133][894]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-28.27 Y=0.40 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (35 other events since notify)
+[2018.08.04-10.21.21:246][902]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 11
+[2018.08.04-10.21.21:332][908]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-29.60 Y=-1.27 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.21:345][909]LogCharacterMovement: LJS_BP_EnemyCube_C_66 is stuck and failed to move! Velocity: X=-23.11 Y=-18.63 Z=0.00 Location: X=-353.74 Y=-168.83 Z=156.98 Normal: X=0.06 Y=1.00 Z=0.00 PenetrationDepth:4.155 Actor:LJS_BP_EnemyCylinder_C_77 Component:Cylinder BoneName:None (54 other events since notify)
+[2018.08.04-10.21.21:399][912]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 10
+[2018.08.04-10.21.21:529][921]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 9
+[2018.08.04-10.21.21:677][931]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 8
+[2018.08.04-10.21.21:732][935]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-197.90 Y=71.28 Z=0.00 Location: X=-30.31 Y=-404.91 Z=157.03 Normal: X=-0.97 Y=0.23 Z=0.00 PenetrationDepth:23.627 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (61 other events since notify)
+[2018.08.04-10.21.21:734][935]LogCharacterMovement: LJS_BP_EnemyCube_C_77 is stuck and failed to move! Velocity: X=-21.59 Y=-20.35 Z=0.00 Location: X=-391.16 Y=620.18 Z=157.03 Normal: X=-0.73 Y=-0.68 Z=-0.00 PenetrationDepth:24.877 Actor:LJS_BP_EnemyCylinder_C_81 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.21.21:815][940]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 7
+[2018.08.04-10.21.21:967][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 6
+[2018.08.04-10.21.22:093][958]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-24.74 Y=-23.30 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.160 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (1 other events since notify)
+[2018.08.04-10.21.22:111][959]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 5
+[2018.08.04-10.21.22:140][961]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-30.15 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (23 other events since notify)
+[2018.08.04-10.21.22:155][962]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-30.72 Y=0.43 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.22:246][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 4
+[2018.08.04-10.21.22:360][976]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-28.81 Y=-1.23 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (26 other events since notify)
+[2018.08.04-10.21.22:392][978]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 3
+[2018.08.04-10.21.22:531][988]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 2
+[2018.08.04-10.21.22:573][991]LogCharacterMovement: LJS_BP_EnemyCylinder_C_74 is stuck and failed to move! Velocity: X=-30.22 Y=-9.59 Z=0.00 Location: X=-104.37 Y=-103.02 Z=156.98 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_67 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.21.22:633][995]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-23.61 Y=-14.67 Z=0.00 Location: X=-228.62 Y=-95.96 Z=156.98 Normal: X=-1.00 Y=0.05 Z=-0.00 PenetrationDepth:4.396 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (55 other events since notify)
+[2018.08.04-10.21.22:680][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 1
+[2018.08.04-10.21.22:707][  0]LogCharacterMovement: LJS_BP_EnemyCube_C_72 is stuck and failed to move! Velocity: X=-26.29 Y=-7.23 Z=0.00 Location: X=413.90 Y=28.28 Z=157.03 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:24.827 Actor:LJS_BP_EnemyCylinder_C_78 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.22:733][  2]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-162.76 Y=62.25 Z=0.00 Location: X=-120.98 Y=-383.55 Z=157.03 Normal: X=-0.99 Y=0.11 Z=-0.00 PenetrationDepth:21.906 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.21.22:734][  2]LogCharacterMovement: LJS_BP_EnemyCube_C_77 is stuck and failed to move! Velocity: X=-20.12 Y=-18.96 Z=0.00 Location: X=-391.16 Y=620.18 Z=157.03 Normal: X=-0.73 Y=-0.68 Z=-0.00 PenetrationDepth:24.877 Actor:LJS_BP_EnemyCylinder_C_81 Component:Cylinder BoneName:None (18 other events since notify)
+[2018.08.04-10.21.22:821][  8]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 0
+[2018.08.04-10.21.23:158][ 30]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-31.67 Y=0.45 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (34 other events since notify)
+[2018.08.04-10.21.23:385][ 45]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-31.01 Y=-1.33 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.21.23:445][ 49]LogCharacterMovement: LJS_BP_EnemyCube_C_68 is stuck and failed to move! Velocity: X=-30.21 Y=-0.11 Z=0.00 Location: X=955.84 Y=-549.11 Z=156.98 Normal: X=-0.78 Y=0.63 Z=0.00 PenetrationDepth:4.732 Actor:LJS_BP_EnemyCylinder_C_80 Component:Cylinder BoneName:None (22 other events since notify)
+[2018.08.04-10.21.23:579][ 58]LogCharacterMovement: LJS_BP_EnemyCylinder_C_74 is stuck and failed to move! Velocity: X=-31.73 Y=-10.01 Z=0.00 Location: X=-123.80 Y=-109.21 Z=156.98 Normal: X=0.99 Y=0.12 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_67 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.21.23:673][ 64]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-49.06 Y=1.17 Z=0.00 Location: X=-221.84 Y=-199.57 Z=157.03 Normal: X=0.09 Y=1.00 Z=-0.00 PenetrationDepth:0.867 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.23:763][ 70]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 빠른 재장전 성공
+[2018.08.04-10.21.23:763][ 70]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] Reload Complete
+[2018.08.04-10.21.23:946][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 29
+[2018.08.04-10.21.24:039][ 88]LogCharacterMovement: LJS_BP_EnemyCube_C_82 is stuck and failed to move! Velocity: X=-27.90 Y=-10.81 Z=0.00 Location: X=1065.27 Y=369.91 Z=156.98 Normal: X=-0.45 Y=-0.89 Z=0.00 PenetrationDepth:5.049 Actor:LJS_BP_EnemyCylinder_C_91 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.24:086][ 91]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-24.73 Y=-23.29 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.73 Y=0.69 Z=0.00 PenetrationDepth:0.159 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (1 other events since notify)
+[2018.08.04-10.21.24:104][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 28
+[2018.08.04-10.21.24:162][ 96]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-25.99 Y=16.03 Z=0.00 Location: X=-474.40 Y=-313.34 Z=157.03 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:4.176 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (7 other events since notify)
+[2018.08.04-10.21.24:165][ 96]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-30.53 Y=0.43 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (32 other events since notify)
+[2018.08.04-10.21.24:242][101]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 27
+[2018.08.04-10.21.24:385][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 26
+[2018.08.04-10.21.24:412][112]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-31.62 Y=-1.36 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (28 other events since notify)
+[2018.08.04-10.21.24:522][119]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 25
+[2018.08.04-10.21.24:665][128]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 24
+[2018.08.04-10.21.24:795][136]LogCharacterMovement: LJS_BP_EnemyCube_C_70 is stuck and failed to move! Velocity: X=-34.30 Y=1.84 Z=0.00 Location: X=-255.74 Y=-209.92 Z=157.03 Normal: X=-0.70 Y=-0.71 Z=0.00 PenetrationDepth:3.800 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (5 other events since notify)
+[2018.08.04-10.21.24:817][137]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 23
+[2018.08.04-10.21.24:953][145]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 22
+[2018.08.04-10.21.25:102][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 21
+[2018.08.04-10.21.25:165][158]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-33.79 Y=0.48 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (30 other events since notify)
+[2018.08.04-10.21.25:196][160]LogCharacterMovement: LJS_BP_EnemyCube_C_71 is stuck and failed to move! Velocity: X=-28.62 Y=17.66 Z=0.00 Location: X=-474.40 Y=-313.34 Z=157.03 Normal: X=-0.96 Y=-0.28 Z=0.00 PenetrationDepth:4.304 Actor:LJS_BP_EnemyCylinder_C_79 Component:Cylinder BoneName:None (27 other events since notify)
+[2018.08.04-10.21.25:250][163]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 20
+[2018.08.04-10.21.25:389][171]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 19
+[2018.08.04-10.21.25:523][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 18
+[2018.08.04-10.21.25:606][184]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-18.51 Y=-30.81 Z=0.00 Location: X=-350.07 Y=-140.19 Z=156.98 Normal: X=-1.00 Y=-0.01 Z=-0.00 PenetrationDepth:9.095 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (8 other events since notify)
+[2018.08.04-10.21.25:678][188]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 17
+[2018.08.04-10.21.25:812][196]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 16
+[2018.08.04-10.21.25:957][205]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 15
+[2018.08.04-10.21.25:987][207]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-30.55 Y=-1.31 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (6 other events since notify)
+[2018.08.04-10.21.26:087][213]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-27.72 Y=-26.11 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.72 Y=0.69 Z=-0.00 PenetrationDepth:0.158 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (1 other events since notify)
+[2018.08.04-10.21.26:104][214]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 14
+[2018.08.04-10.21.26:182][219]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-33.71 Y=0.47 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.21.26:250][223]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 13
+[2018.08.04-10.21.26:393][232]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 12
+[2018.08.04-10.21.26:521][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 11
+[2018.08.04-10.21.26:615][246]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-50.60 Y=-84.23 Z=0.00 Location: X=-350.07 Y=-140.19 Z=156.98 Normal: X=-1.00 Y=-0.01 Z=-0.00 PenetrationDepth:11.047 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (46 other events since notify)
+[2018.08.04-10.21.26:666][249]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 10
+[2018.08.04-10.21.26:812][258]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 9
+[2018.08.04-10.21.26:953][267]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 8
+[2018.08.04-10.21.27:013][271]LogCharacterMovement: LJS_BP_EnemyCube_C_81 is stuck and failed to move! Velocity: X=-31.45 Y=-1.35 Z=0.00 Location: X=1403.56 Y=-509.58 Z=156.98 Normal: X=-0.64 Y=-0.76 Z=-0.00 PenetrationDepth:4.717 Actor:LJS_BP_EnemyCylinder_C_88 Component:Cylinder BoneName:None (10 other events since notify)
+[2018.08.04-10.21.27:094][276]LogCharacterMovement: LJS_BP_EnemyCube_C_75 is stuck and failed to move! Velocity: X=-23.11 Y=-21.77 Z=0.00 Location: X=-463.82 Y=551.60 Z=157.03 Normal: X=0.72 Y=0.69 Z=0.00 PenetrationDepth:0.158 Actor:LJS_BP_EnemyCylinder_C_75 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.21.27:097][276]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 7
+[2018.08.04-10.21.27:211][283]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-33.14 Y=0.47 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (31 other events since notify)
+[2018.08.04-10.21.27:245][285]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 6
+[2018.08.04-10.21.27:388][294]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 5
+[2018.08.04-10.21.27:524][302]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 4
+[2018.08.04-10.21.27:634][309]LogCharacterMovement: LJS_BP_EnemyCube_C_67 is stuck and failed to move! Velocity: X=-17.29 Y=-28.78 Z=0.00 Location: X=-350.07 Y=-140.19 Z=156.98 Normal: X=-1.00 Y=-0.01 Z=-0.00 PenetrationDepth:11.047 Actor:LJS_BP_EnemyCylinder_C_74 Component:Cylinder BoneName:None (46 other events since notify)
+[2018.08.04-10.21.27:671][311]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 3
+[2018.08.04-10.21.27:822][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 2
+[2018.08.04-10.21.27:957][328]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 1
+[2018.08.04-10.21.28:095][336]LogBlueprintUserMessages: [FirstPersonCharacter_C_2] 0
+[2018.08.04-10.21.28:244][345]LogCharacterMovement: LJS_BP_EnemyCube_C_80 is stuck and failed to move! Velocity: X=-34.65 Y=0.49 Z=0.00 Location: X=1207.93 Y=-561.86 Z=156.98 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:21.524 Actor:LJS_BP_EnemyCylinder_C_84 Component:Cylinder BoneName:None (29 other events since notify)
+[2018.08.04-10.21.32:957][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.21.32:981][805]LogSlate: Window 'ItemPrototype_LJS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.04-10.21.33:017][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-10.21.33:294][806]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.08.04-10.24.45:235][647]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.08.04-10.24.45:270][647]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.08.04-10.24.59:723][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-10.24.59:823][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.04-10.24.59:851][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-10.24.59:851][946]PIE: New page: PIE session: LJS_LV_SpawnVolume (Aug 5, 2018, 4:24:59 AM)
+[2018.08.04-10.24.59:851][946]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume
+[2018.08.04-10.24.59:861][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009295s)
+[2018.08.04-10.24.59:862][946]LogAIModule: Creating AISystem for world LJS_LV_SpawnVolume
+[2018.08.04-10.24.59:862][946]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.08.04-10.24.59:862][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/LJS_LV_SpawnVolume.LJS_LV_SpawnVolume to /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume (0.010433s)
+[2018.08.04-10.24.59:917][946]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-10.24.59:932][946]LogInit: FAudioDevice initialized.
+[2018.08.04-10.24.59:941][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.24.59:979][946]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.04-10.24.59:981][946]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume.LJS_LV_SpawnVolume up for play (max tick rate 0) at 2018.08.04-19.24.59
+[2018.08.04-10.24.59:981][946]LogWorld: Bringing up level for play took: 0.001618
+[2018.08.04-10.24.59:994][946]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.04-10.24.59:994][946]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.04-10.24.59:994][946]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.04-10.24.59:999][946]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.04-10.25.00:002][946]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_LJS_LV_SpawnVolume -0.571
+[2018.08.04-10.25.11:199][268]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Health Used
+[2018.08.04-10.25.11:620][318]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] AttackPower Used
+[2018.08.04-10.25.12:044][368]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] DefensePower Used
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 2
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 3
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 4
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 5
+[2018.08.04-10.25.12:800][456]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] slowenemyall
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_0] 5.007196
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_2] 5.007196
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_0] 5.007196
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCube_C_1] 5.007196
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_1] 5.007196
+[2018.08.04-10.25.17:799][ 47]LogBlueprintUserMessages: [LJS_BP_EnemyCylinder_C_3] 5.007196
+[2018.08.04-10.25.21:197][445]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Health Ready
+[2018.08.04-10.25.21:613][494]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Offense Ready
+[2018.08.04-10.25.24:001][777]LogCharacterMovement: LJS_BP_EnemyCube_C_1 is stuck and failed to move! Velocity: X=-12.49 Y=11.87 Z=0.00 Location: X=1039.37 Y=938.90 Z=157.03 Normal: X=-0.02 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_0 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.25.32:751][807]LogCharacterMovement: LJS_BP_EnemyCylinder_C_2 is stuck and failed to move! Velocity: X=14.89 Y=-8.35 Z=0.00 Location: X=106.94 Y=482.69 Z=157.03 Normal: X=0.63 Y=0.78 Z=0.00 PenetrationDepth:0.120 Actor:LJS_BP_EnemyCylinder_C_1 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.25.38:081][441]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] AttackPower Used
+[2018.08.04-10.25.41:149][804]LogCharacterMovement: LJS_BP_EnemyCylinder_C_3 is stuck and failed to move! Velocity: X=-10.56 Y=13.40 Z=0.00 Location: X=471.90 Y=923.29 Z=157.03 Normal: X=0.63 Y=-0.78 Z=0.00 PenetrationDepth:0.172 Actor:LJS_BP_EnemyCylinder_C_1 Component:Cylinder BoneName:None (0 other events since notify)
+[2018.08.04-10.25.42:038][910]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] DefensePower Ready
+[2018.08.04-10.25.42:154][924]LogCharacterMovement: LJS_BP_EnemyCube_C_0 is stuck and failed to move! Velocity: X=-283.55 Y=-345.58 Z=0.00 Location: X=939.61 Y=-210.98 Z=157.03 Normal: X=0.58 Y=0.81 Z=0.00 PenetrationDepth:0.000 Actor:LJS_BP_EnemyCube_C_1 Component:Cube BoneName:None (0 other events since notify)
+[2018.08.04-10.25.45:802][358]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 29
+[2018.08.04-10.25.47:156][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-10.25.47:179][516]LogSlate: Window 'ItemPrototype_LJS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.04-10.25.47:214][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-10.25.47:267][517]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.08.04-10.26.43:205][ 61]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.04-10.26.46:636][308]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.04-10.26.46:790][312]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ItemPrototypeLJS
+[2018.08.04-10.26.46:790][312]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.04-10.26.46:790][312]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.08.04-10.26.46:790][312]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.04-10.26.46:790][312]LogTemp: BranchPath = DESKTOP-VTQMR3U/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-VTQMR3U/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.08.04-10.26.46:833][312]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ukyos\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.04-10.26.52:276][790]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.04-10.27.06:346][474]LogInit: Warning: CVar named 'r.AllowStaticLighting' marked up in RendererSettings was not found or is set to read-only
+[2018.08.04-10.27.10:307][941]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.08.04-10.27.11:925][941]LogSlate: Window 'Save Content' being destroyed
+[2018.08.04-10.27.12:258][941]LogSavePackage: Moving 'D:/Unreal ljs/ItemPrototype_LJS/Saved/LJS_LV_SpawnVolume71E0585E43127C16C89C98B81EE87EC5.tmp' to 'D:/Unreal ljs/ItemPrototype_LJS/Content/FirstPersonBP/Maps/LJS_LV_SpawnVolume.umap'
+[2018.08.04-10.27.12:304][941]LogFileHelpers: Saving map 'LJS_LV_SpawnVolume' took 0.360
+[2018.08.04-10.27.12:488][941]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.04-10.27.12:545][941]LogSlate: Window 'ItemPrototype_LJS - Unreal Editor' being destroyed
+[2018.08.04-10.27.12:813][942]Cmd: QUIT_EDITOR
+[2018.08.04-10.27.13:136][942]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.08.04-10.27.13:155][942]LogExit: Preparing to exit.
+[2018.08.04-10.27.13:722][942]LogExit: Editor shut down
+[2018.08.04-10.27.13:723][942]LogExit: Transaction tracking system shut down
+[2018.08.04-10.27.14:381][942]LogExit: Object subsystem successfully closed.
+[2018.08.04-10.27.14:391][942]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.04-10.27.14:395][942]LogD3D11RHI: Shutdown
+[2018.08.04-10.27.14:395][942]LogD3D11RHI: CleanupD3DDevice
+[2018.08.04-10.27.14:397][942]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.08.04-10.27.14:447][942]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2018.08.04-10.27.14:448][942]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2018.08.04-10.27.14:448][942]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2018.08.04-10.27.14:448][942]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2018.08.04-10.27.14:448][942]LogModuleManager: Shutting down and abandoning module WorldBrowser (602)
+[2018.08.04-10.27.14:449][942]LogModuleManager: Shutting down and abandoning module SceneOutliner (600)
+[2018.08.04-10.27.14:449][942]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.08.04-10.27.14:449][942]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.04-10.27.14:449][942]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.04-10.27.14:450][942]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.04-10.27.14:451][942]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.04-10.27.14:451][942]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.04-10.27.14:453][942]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.04-10.27.14:454][942]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.04-10.27.14:455][942]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.04-10.27.14:455][942]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.04-10.27.14:456][942]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.04-10.27.16:058][942]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.04-10.27.16:058][942]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.04-10.27.16:058][942]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.04-10.27.16:058][942]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.04-10.27.16:059][942]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.04-10.27.16:060][942]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.04-10.27.16:060][942]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.04-10.27.16:060][942]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.04-10.27.16:060][942]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.04-10.27.16:115][942]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.04-10.27.16:115][942]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.04-10.27.16:116][942]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.04-10.27.16:116][942]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.04-10.27.16:116][942]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.04-10.27.16:116][942]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.04-10.27.16:116][942]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.04-10.27.16:117][942]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.04-10.27.16:117][942]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.04-10.27.16:117][942]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.04-10.27.16:121][942]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.04-10.27.16:121][942]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.04-10.27.16:121][942]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.04-10.27.16:121][942]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.04-10.27.16:122][942]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.04-10.27.16:122][942]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.04-10.27.16:122][942]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.04-10.27.16:122][942]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.04-10.27.16:122][942]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.04-10.27.16:123][942]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.04-10.27.16:273][942]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.04-10.27.16:274][942]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.04-10.27.16:275][942]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.04-10.27.16:275][942]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.04-10.27.16:275][942]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.04-10.27.16:275][942]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.04-10.27.16:278][942]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.04-10.27.16:278][942]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.04-10.27.16:278][942]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.04-10.27.16:278][942]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.04-10.27.16:279][942]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.04-10.27.16:280][942]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.04-10.27.16:280][942]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.04-10.27.16:280][942]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.04-10.27.16:280][942]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.04-10.27.16:280][942]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.04-10.27.16:281][942]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.04-10.27.16:282][942]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.04-10.27.16:383][942]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.04-10.27.16:484][942]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.04-10.27.16:485][942]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.04-10.27.16:485][942]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.04-10.27.16:485][942]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.04-10.27.16:485][942]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.04-10.27.16:486][942]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.04-10.27.16:487][942]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.04-10.27.16:489][942]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.04-10.27.16:495][942]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.04-10.27.16:495][942]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.04-10.27.16:495][942]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.04-10.27.16:496][942]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.04-10.27.16:496][942]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.04-10.27.16:496][942]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.04-10.27.16:496][942]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.04-10.27.16:496][942]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.04-10.27.16:497][942]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.04-10.27.16:498][942]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.04-10.27.16:499][942]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.04-10.27.16:499][942]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.04-10.27.16:500][942]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.04-10.27.16:500][942]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.04-10.27.16:502][942]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.04-10.27.16:503][942]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.04-10.27.16:504][942]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.04-10.27.16:504][942]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.04-10.27.16:504][942]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.04-10.27.16:504][942]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.04-10.27.16:504][942]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.04-10.27.16:533][942]LogDerivedDataCache: Shutdown
+[2018.08.04-10.27.16:533][942]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.04-10.27.16:533][942]LogXGEController: Cleaning working directory: C:/Users/ukyos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.04-10.27.16:534][942]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.04-10.27.16:535][942]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.04-10.27.16:536][942]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.04-10.27.16:536][942]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.04-10.27.16:537][942]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.04-10.27.16:537][942]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.04-10.27.16:543][942]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.04-10.27.16:544][942]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.04-10.27.16:544][942]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.04-10.27.16:544][942]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.04-10.27.16:544][942]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.04-10.27.16:544][942]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.04-10.27.16:545][942]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.04-10.27.16:571][942]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.04-10.27.16:571][942]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.04-10.27.16:571][942]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDA1EACDF-4EAE-DAF6-58A0-1293E2DB8CE6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=97fb701d40ab8723771d9c9d3107cb21%7C7735729cfacd45018d8e5ad7a2086512%7C98041dc8-fcab-46c6-8f60-eca13a37fb98&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.04-10.27.16:584][942]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.04-10.27.16:585][942]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.04-10.27.16:585][942]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.04-10.27.16:586][942]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.04-10.27.16:586][942]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.04-10.27.16:587][942]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.04-10.27.16:587][942]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.04-10.27.16:587][942]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.04-10.27.16:587][942]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.04-10.27.16:587][942]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.04-10.27.16:588][942]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.04-10.27.16:591][942]LogExit: Exiting.
+[2018.08.04-10.27.16:638][942]Log file closed, 08/04/18 19:27:16
